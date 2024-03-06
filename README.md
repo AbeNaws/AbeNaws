@@ -38,6 +38,7 @@
       <li>Pentesting</li>
     </ul>  
   </div>
+  <br>
   <div align="Right" width=50%>
     <h2>
       Languages:

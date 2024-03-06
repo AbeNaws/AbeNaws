@@ -41,12 +41,12 @@
   <br>
   <div align="Right" width=50%>
     <h2>
-      Languages:
+      Languages
     </h2>
     <div>
       <img align="left" src="https://media.giphy.com/media/jjYGVvxgQSTsc/giphy.gif" alt="" height=200/>
       <h3>
-        Current:
+        Current
       </h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
@@ -54,7 +54,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
       <h3>
-        Learning:
+        Learning
       </h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>
@@ -63,26 +63,26 @@
   </div>
   <div align="Left" width=50%>
     <h2>
-      Tools:
+      Tools
     </h2>
     <div>
       <img align="right" src="https://media.giphy.com/media/ktcUyw6mBlMVa/giphy.gif" alt="" height=200/>
       <h3>
-        Current:
+        Current
       </h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" alt="RPi" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
       <h3>
-        Learning:
+        Learning
       </h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" alt="RPi" width="40" height="40"/>
     </div>
   </div>
   <div align="center">
     <h2>
-      My Stats:
+      My Stats
     </h2>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AbeNaws&theme=dark&background=000000" alt="Github Stats" />
     <br>

@@ -8,7 +8,7 @@
     </a>
   </div>
   <div>
-    <!--<img src="https://komarev.com/ghpvc/?username=AbeNaws&style=flat-square&color=blue" alt=""/>-->
+    <img src="https://komarev.com/ghpvc/?username=AbeNaws&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
     Hello
@@ -19,6 +19,7 @@
     <img src="https://media.giphy.com/media/ehnBGPgDOusUM/giphy.gif"/>
   </div>
 </div>
+<br>
 <div>
   <div>
     <h2> 
@@ -61,6 +62,7 @@
       <img src="https://flipperzero.one/img/tild3132-6661-4934-b937-666566303739__on_orange.png"  title="Flipper" alt="Flipper" width="50" height="40"/>
     </div>
   </div>
+  <br>
   <div align="Left" width=50%>
     <h2>
       Tools
@@ -80,6 +82,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RPi" alt="RPi" width="40" height="40"/>
     </div>
   </div>
+  <br>
   <div align="center">
     <h2>
       My Stats
